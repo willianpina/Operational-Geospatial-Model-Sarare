@@ -69,8 +69,7 @@ GarimpoDetector-Sarare/
 │   └── tis_poligonaisPolygon.shp
 │
 ├── notebooks/
-│   ├── passo_4_analise_relevo.ipynb
-│   ├── passo_5_modelo_integrado.ipynb
+│    └── Analise_Terreno_TISAR.ipynb
 │
 └── README.md
 ```
